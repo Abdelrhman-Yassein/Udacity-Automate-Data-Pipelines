@@ -39,11 +39,11 @@ dependencies
 * plugins/operators/data_quality.py: Operator that validates data quality in redshift tables
 
 ### Fact table and Dimension table with star schemas
-![Star-Schema]([images\Project-Data-Modeling-with-Postgres-Star-Schema.png](https://raw.githubusercontent.com/Abdelrhman-Yassein/Udacity-Automate-Data-Pipelines-AirFlow-Project/main/images/Project-Data-Modeling-with-Postgres-Star-Schema.png))
-
+![[Star-Schema]([images\Project-Data-Modeling-with-Postgres-Star-Schema.png](https://raw.githubusercontent.com/Abdelrhman-Yassein/Udacity-Automate-Data-Pipelines-AirFlow-Project/main/images/Project-Data-Modeling-with-Postgres-Star-Schema.png))
+](https://github.com/Abdelrhman-Yassein/Udacity-Automate-Data-Pipelines-AirFlow-Project/blob/main/images/Project-Data-Modeling-with-Postgres-Star-Schema.png)
 ### Sparkify DAG
-![Graoh-View](images\graphView.PNG)
-![Graoh-View](images\treeView.PNG)
+![[tree-View](images\graphView.PNG)](https://github.com/Abdelrhman-Yassein/Udacity-Automate-Data-Pipelines-AirFlow-Project/blob/main/images/graphView.PNG)
+![[Graoh-View](images\treeView.PNG)](https://github.com/Abdelrhman-Yassein/Udacity-Automate-Data-Pipelines-AirFlow-Project/blob/main/images/graphView.PNG)
 ```
     - dags
         |- udac_example_dag.py  # Create Dag and tasks  
