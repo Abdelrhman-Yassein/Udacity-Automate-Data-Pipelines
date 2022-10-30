@@ -127,3 +127,8 @@ For example one test could be a SQL statement that checks if certain column cont
 ### Airflow UI views of DAG and plugins
 
 The dag follows the data flow provided in the instructions, all the tasks have a dependency and DAG begins with a start_execution task and ends with a end_execution task.
+
+## Contact
+
+## **Abdelrhman Yassein  :**  [LinkedIn](https://www.linkedin.com/in/Abdelrhman-Yassein/) - [GitHub](https://github.com/Abdelrhman-Yassein?tab=repositories)
+
